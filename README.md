@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
