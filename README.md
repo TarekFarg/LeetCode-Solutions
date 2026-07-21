@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
