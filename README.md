@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
