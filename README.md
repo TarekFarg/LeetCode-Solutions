@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
