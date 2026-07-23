@@ -14,34 +14,16 @@ public:
                 count++;
             }
             
-            if(curDir%4 == 0) // R
-            {
-                if(j+1 < n && !vist[i][j+1])
-                    j++;
-                else
-                    curDir++ ;
-            }
-            else if(curDir%4 == 1) // D
-            {
-                if(i+1 < m && !vist[i+1][j])
-                    i++;
-                else
-                    curDir++;
-            }
-            else if(curDir%4 == 2) // L
-            {
-                if(j-1>=0 && !vist[i][j-1])
-                    j-- ;
-                else
-                    curDir++ ;
-            }
-            else // U
-            {
-                if(i-1>=0 && !vist[i-1][j])
-                    i--;
-                else
-                    curDir++;
-            }
+            if(curDir%4 == 0 && j+1 < n && !vist[i][j+1] ) // R
+                j++; 
+            else if(curDir%4 == 1 && i+1 < m && !vist[i+1][j]) // D
+                i++;
+            else if(curDir%4 == 2 && j-1 >=0 && !vist[i][j-1]) // L
+                j-- ;
+            else if(curDir%4 == 3 && i-1 >=0 && !vist[i-1][j] ) // U
+                i--;
+            else
+                curDir++;
         }
         return ans;
     }
