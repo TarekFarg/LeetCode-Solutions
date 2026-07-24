@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0383-ransom-note](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0289-game-of-life) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
