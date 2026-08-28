@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/TarekFarg/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
