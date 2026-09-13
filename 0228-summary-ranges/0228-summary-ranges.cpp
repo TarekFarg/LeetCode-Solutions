@@ -7,7 +7,7 @@ public:
         int st = nums[0] ;
         for(int i = 1 ; i <= nums.size() ; i++)
         {
-            if(i == nums.size() || (long long)nums[i]-nums[i-1]>1)
+            if(i == nums.size() || nums[i-1]+1 != nums[i])
             {
                 if(nums[i-1]==st)
                 {
